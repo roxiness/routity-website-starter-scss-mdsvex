@@ -18,7 +18,7 @@
     "@rollup/plugin-commonjs": "^11.0.0",
     "@sveltech/routify": "^1.0.6",
     "concurrently": "^5.0.2",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "del": "^5.1.0",
     "ppid-changed": "^1.0.1",
     "rollup": "^1.2.0",
